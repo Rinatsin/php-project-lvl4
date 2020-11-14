@@ -1,6 +1,7 @@
 <p align="center"><h1 color="red">Task Manager</h1></p>
 
 ![Master Workflow](https://github.com/Rinatsin/php-project-lvl4/workflows/hexlet-check/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/31411c7e2a9f7128e2c8/maintainability)](https://codeclimate.com/github/Rinatsin/php-project-lvl4/maintainability)
 
 ## Heroku
 - [Site](https://boiling-crag-79525.herokuapp.com).

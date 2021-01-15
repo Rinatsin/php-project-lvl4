@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/31411c7e2a9f7128e2c8/maintainability)](https://codeclimate.com/github/Rinatsin/php-project-lvl4/maintainability)
 
 ## Heroku
-- [task-manager-site](https://boiling-crag-79525.herokuapp.com).
+- [task-manager-site](https://php-project4-task-manager.herokuapp.com/).
 
 ## About Task Manager
 
